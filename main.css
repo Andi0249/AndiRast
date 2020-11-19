@@ -1,0 +1,62 @@
+h1
+{
+    display: inline;
+    text-align: center;
+    font-family: 'Bungee', cursive;
+    color: red;
+    font-size: 90px;
+}
+
+body
+{
+    background-color: #839b97;
+}
+
+.vas
+{
+    font-size: 40px;
+    font-family: 'Stalinist One', cursive;
+}
+
+.kl
+{
+    font-family: 'Fredoka One', cursive;
+}
+
+.gh
+{
+    display: inline;
+    text-align: center;
+}
+
+.tiden
+{
+    float: left;
+    margin-left: 470px;
+}
+
+.containers
+{
+    margin-top: 150px;
+}
+
+.col-smone
+{
+    text-align: center;
+    margin-right: 420px;
+    border-radius: 20px;
+}
+
+.two
+{
+   margin-top: 150px;
+}
+
+
+.miclas
+{
+    display:none;
+    width: 300px;
+    margin-left: 245px;
+}
+
